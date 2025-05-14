@@ -8,7 +8,7 @@ def check_weather(date, api, city):
     for attempt in range (1, max_attempts +1):
         try:
             print(f"Attempt {attempt}: Requesting url for weather for {city}")
-            url = f"http://api.weatherapi.com/v1/forecast.json?key={api}&q={city}&days=7&aqi=no&alerts=no"
+            url = f"http://api.weatherapi.com/v1/forecast.json?key={api}&q={city}&days=3&aqi=no&alerts=no"
             response = requests.get(url)
             if response.status_code == 200 and response.text.strip():
                 response = requests.get(url).json()
