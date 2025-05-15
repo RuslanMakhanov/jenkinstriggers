@@ -6,12 +6,12 @@
         "lat": 52.3,
         "lon": 76.95,
         "tz_id": "Asia/Almaty",
-        "localtime_epoch": 1747293619,
-        "localtime": "2025-05-15 12:20"
+        "localtime_epoch": 1747294216,
+        "localtime": "2025-05-15 12:30"
     },
     "current": {
-        "last_updated_epoch": 1747293300,
-        "last_updated": "2025-05-15 12:15",
+        "last_updated_epoch": 1747294200,
+        "last_updated": "2025-05-15 12:30",
         "temp_c": 23.3,
         "temp_f": 74.0,
         "is_day": 1,
