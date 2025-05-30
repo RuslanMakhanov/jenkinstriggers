@@ -1,0 +1,55 @@
+{
+    "location": {
+        "name": "Alanya",
+        "region": "Antalya",
+        "country": "Turkey",
+        "lat": 36.5525,
+        "lon": 32.0025,
+        "tz_id": "Europe/Istanbul",
+        "localtime_epoch": 1748590208,
+        "localtime": "2025-05-30 10:30"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2025-05-29",
+                "date_epoch": 1748476800,
+                "day": {
+                    "maxtemp_c": 21.6,
+                    "maxtemp_f": 70.9,
+                    "mintemp_c": 20.4,
+                    "mintemp_f": 68.8,
+                    "avgtemp_c": 21.2,
+                    "avgtemp_f": 70.1,
+                    "maxwind_mph": 14.5,
+                    "maxwind_kph": 23.4,
+                    "totalprecip_mm": 3.06,
+                    "totalprecip_in": 0.12,
+                    "totalsnow_cm": 0.0,
+                    "avgvis_km": 9.5,
+                    "avgvis_miles": 5.0,
+                    "avghumidity": 76,
+                    "daily_will_it_rain": 1,
+                    "daily_chance_of_rain": 100,
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": 0,
+                    "condition": {
+                        "text": "Thundery outbreaks possible",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/200.png",
+                        "code": 1087
+                    },
+                    "uv": 5.0
+                },
+                "astro": {
+                    "sunrise": "05:37 AM",
+                    "sunset": "08:03 PM",
+                    "moonrise": "07:21 AM",
+                    "moonset": "11:02 PM",
+                    "moon_phase": "Waxing Crescent",
+                    "moon_illumination": 5
+                },
+                "hour": []
+            }
+        ]
+    }
+}

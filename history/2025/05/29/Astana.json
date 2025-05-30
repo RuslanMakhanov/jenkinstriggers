@@ -1,0 +1,55 @@
+{
+    "location": {
+        "name": "Astana",
+        "region": "Astana",
+        "country": "Kazakhstan",
+        "lat": 51.1811,
+        "lon": 71.4278,
+        "tz_id": "Asia/Almaty",
+        "localtime_epoch": 1748590207,
+        "localtime": "2025-05-30 12:30"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2025-05-29",
+                "date_epoch": 1748476800,
+                "day": {
+                    "maxtemp_c": 22.6,
+                    "maxtemp_f": 72.7,
+                    "mintemp_c": 11.1,
+                    "mintemp_f": 51.9,
+                    "avgtemp_c": 16.8,
+                    "avgtemp_f": 62.2,
+                    "maxwind_mph": 9.6,
+                    "maxwind_kph": 15.5,
+                    "totalprecip_mm": 0.93,
+                    "totalprecip_in": 0.04,
+                    "totalsnow_cm": 0.0,
+                    "avgvis_km": 9.9,
+                    "avgvis_miles": 6.0,
+                    "avghumidity": 56,
+                    "daily_will_it_rain": 1,
+                    "daily_chance_of_rain": 100,
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": 0,
+                    "condition": {
+                        "text": "Cloudy",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/119.png",
+                        "code": 1006
+                    },
+                    "uv": 5.0
+                },
+                "astro": {
+                    "sunrise": "04:07 AM",
+                    "sunset": "08:17 PM",
+                    "moonrise": "05:19 AM",
+                    "moonset": "11:30 PM",
+                    "moon_phase": "Waxing Crescent",
+                    "moon_illumination": 4
+                },
+                "hour": []
+            }
+        ]
+    }
+}
